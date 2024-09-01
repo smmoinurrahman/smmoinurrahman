@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smmoinurrahman
 - 👀 I’m interested in Robotics and Artificial intelligence
-- 🌱 I’m currently learning different machine learning algorithms, search strategy, Bayesian Network, Applicagtion of AI
+- 🌱 I’m currently learning different machine learning algorithms, search strategy, Bayesian Network, Application of AI
 - 💞️ I’m looking to collaborate on Computer Vision, NLP and Robotic Projects.
 - 📫 How to reach me? mail: smmoinur7777@gmail.com
 - 😄 Pronouns: Moin
